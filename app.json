@@ -19,7 +19,7 @@
     "PREFIX": {
       "description": "Add Your Custom Prefix here.",
       "required": true,
-      "default": "."
+      "default": "-"
     },
     "mode": {
       "description": "Add Your Bot Mode (private, public, inbox, groups) here.",
@@ -29,22 +29,22 @@
     "OWNER_NUMBER": {
       "description": "Owner Number",
       "required": true,
-      "default": "263714757857"
+      "default": "254104916091"
     },
     "ALIVE_IMG": {
       "description": "Put your alive img here.",
       "required": true,
-      "default": ""
+      "default": "https://c.top4top.io/p_32402xbvw0.jpg"
     },
     "ALIVE_MSG": {
       "description": "Put your alive msg here.",
       "required": true,
-      "default": ""
+      "default": "wacha ufala"
     },
     "AUTO_VOICE": {
       "description": "Auto voice feature (true/false)",
       "required": false,
-      "default": "false"
+      "default": "true"
     },
     "ANTI_BAD_WORDS_ENABLED": {
       "description": "Enable anti bad words (true/false)",
@@ -69,7 +69,7 @@
     "ALWAYS_ONLINE": {
       "description": "Always online feature (true/false)",
       "required": false,
-      "default": "false"
+      "default": "true"
     },
     "ALWAYS_TYPING": {
       "description": "Always typing feature (true/false)",
@@ -79,7 +79,7 @@
     "ALWAYS_RECORDING": {
       "description": "Always recording feature (true/false)",
       "required": false,
-      "default": "false"
+      "default": "true"
     },
     "ANTI_BOT": {
       "description": "Enable anti bot feature (true/false)",
